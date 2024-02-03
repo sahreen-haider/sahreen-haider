@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahreen-haider.
 - 👀 I’m interested in anything that is tech related.
-- 🌱 I'm machine learning engineer by profession (CS is majors).
+- 🌱 I'm Computer Science Engineer.
 - 💞️ Looking to collaborate on some good project.
 - 📫 How to reach me ? E-mail :: sahreenhaider@gmail.com >>>.
 
